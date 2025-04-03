@@ -4,22 +4,22 @@ Welcome to my project page! This page has been created with GitHub Pages and is 
 
 ---
 
-## 🔹 The goal of the project  
-> "The goal of the project was to create a simple static webpage."
+## 🔹 Teacher's requirements  
+> "Use Github Pages and use markdown language syntax (not HTML) to create a static website. Website must be public. Use at least handful of Github flavour markdown features to format the web page."
 
 ---
 
 ## 📌 Applied technologies  
 
-- [x] Markdown  
-- [x] GitHub Pages  
-- [x] Git & GitHub  
+[x] Markdown  
+[x] GitHub Pages  
+[x] Git & GitHub  
 
 ---
 
 ## 📷 Kuvakaappaus  
 
-![Esimerkkikuva]  
+![Placeholder](./images/placeholder.png)  
 
 ---
 
