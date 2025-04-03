@@ -1,3 +1,7 @@
+---
+title: "CSBE"
+---
+
 # 🌟 Cloudservices: Bundle E - static website  
 
 Welcome to my project page! This page has been created with GitHub Pages and is executed with **Markdown**.
@@ -11,16 +15,20 @@ Welcome to my project page! This page has been created with GitHub Pages and is 
 
 ## 📌 Applied technologies  
 
-[x] Markdown  
-[x] GitHub Pages  
-[x] Git & GitHub  
+- [x] Markdown  
+- [x] GitHub Pages  
+- [x] Git & GitHub  
 
 ---
 
-## 📷 Kuvakaappaus  
-
+## 📷 Image 
 ![Placeholder](./images/placeholder.png)  
 
 ---
 
+## 🟪 Pay attention! 
 
+> [!IMPORTANT]
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et.
+
+---
