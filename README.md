@@ -1,7 +1,3 @@
----
-title: "CSBE"
----
-
 # 🌟 Cloudservices: Bundle E - static website  
 
 Welcome to my project page! This page has been created with GitHub Pages and is executed with **Markdown**.
